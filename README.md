@@ -1,5 +1,7 @@
 # Huaqiangbeinator-3
-lol yup. sum speakers for u to build that might just sound better than all that name brand crap.
+lol yup. Sum speakers for u to build that might just sound better than all that name brand crap.
+
+This is a 360° (technically) speaker with a focus on improving on-axis response while maintaining omnidirectional coverage. It has a midtweeter (xover @ 800Hz) and a fullrange. The DSP is based on ADAU1701. Please refer to the white paper for more details on the design philosophy, and the instructions document for building tips.
 
 The speaker is still in developement so the repo might not be complete. I'll update as I move forward with the project.
 
